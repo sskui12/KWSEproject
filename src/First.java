@@ -20,6 +20,7 @@ public class First {
 		result = val1%val2;
 		rest = val1*val2 - val1*(val1%val2);
 		System.out.println(result + "and" + rest);
+		System.out.println("Hello world");
 		return 0;
 	}
 }
